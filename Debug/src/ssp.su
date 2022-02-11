@@ -1,0 +1,9 @@
+core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+ssp.c:46:6:SSP0_IRQHandler	16	static
+ssp.c:87:6:SSP1_IRQHandler	16	static
+ssp.c:123:6:SSP_SSELToggle	16	static
+ssp.c:151:6:SSP0Init	16	static
+ssp.c:219:6:SSP1Init	16	static
+ssp.c:286:6:SSPSend	32	static
+ssp.c:339:9:SSP1SendReceive	16	static
+ssp.c:353:6:SSPReceive	32	static
