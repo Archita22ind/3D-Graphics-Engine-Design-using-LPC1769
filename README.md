@@ -4,7 +4,7 @@ In this project I have designed and built a system that displays a 3D cube struc
 
 ## Demo
 
-<img src="/images/ShortImplementationVideo.gif?raw=true" width="1000px">
+<img src="/images/ShortImplementationVideo.gif?raw=true" width="500px">
 
 ## Hardware Design
 
